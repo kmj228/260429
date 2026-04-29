@@ -977,7 +977,7 @@ body {
 
 .dog-wrap {
     position: absolute;
-    bottom: -50px;
+    bottom: -70px;
     left: 0;
     z-index: 2;
     animation: dog-walk 11s linear infinite;
@@ -1167,7 +1167,7 @@ body {
 /* DOG 타이틀 */
 .dog-title {
     position: absolute;
-    bottom: -45px;
+    bottom: -65px;
     left: 50%;
     transform: translateX(-50%);
     font-family: "Titan One", sans-serif;
