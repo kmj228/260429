@@ -26,6 +26,7 @@ body {
     align-items: center;
     min-height: 100vh;
     position: relative;
+    overflow: hidden;
 }
 
 /* ============================
@@ -1166,7 +1167,7 @@ body {
 /* DOG 타이틀 */
 .dog-title {
     position: absolute;
-    bottom: -50px;
+    bottom: -45px;
     left: 50%;
     transform: translateX(-50%);
     font-family: "Titan One", sans-serif;
@@ -1186,7 +1187,7 @@ body {
         opacity: 0;
     }
 
-    24.5% {
+    24.8% {
         opacity: 0;
     }
 
@@ -1198,7 +1199,7 @@ body {
         opacity: 1;
     }
 
-    75.5% {
+    75.2% {
         opacity: 0;
     }
 
